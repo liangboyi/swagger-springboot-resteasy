@@ -1,11 +1,11 @@
-# Swagger Resteasy
+# Swagger Springboot Resteasy
 ## run
 ```
 mvn spring-boot:run
 ```
 ## resteasy swagger json file
 ```
-http://localhost:9191/swagger.json
+http://localhost:9191/demo/swagger.json
 ```
 ## springboot swagger json file
 ```

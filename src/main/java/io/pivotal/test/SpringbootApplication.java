@@ -37,7 +37,7 @@ public class SpringbootApplication extends SpringBootServletInitializer {
         return new ApiInfoBuilder()
                 .title("Spring REST Sample with Swagger")
                 .description("Spring REST Sample with Swagger")
-                .termsOfServiceUrl("https://github.com/liangboyi/swagger-springboot")
+                .termsOfServiceUrl("https://github.com/liangboyi/swagger-springboot-resteasy")
                 .contact("Boyi Liang")
                 .license("Apache License Version 2.0")
                 .licenseUrl("https://www.apache.org/licenses/LICENSE-2.0")
