@@ -1,0 +1,7 @@
+resteasy:
+  jaxrs:
+    app:
+      registration: property
+      classes: io.pivotal.test.DemoApplication
+server:
+  port: 9191
